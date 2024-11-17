@@ -33,8 +33,7 @@ We developed an automated server health monitoring system using a shell script t
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/server-health-monitor.git
-   cd server-health-monitor
+   git clone https://github.com/DevOps-Playbbok/30-Days-30-Projects.git
    ```
 
 2. Configure thresholds in the script:
@@ -45,8 +44,8 @@ We developed an automated server health monitoring system using a shell script t
    ```
 
 3. Set up Slack integration:
-   a. Obtain a Slack Webhook URL.
-   b. Add it to the script under the SLACK_WEBHOOK_URL variable.
+   > Obtain a Slack Webhook URL.
+   > Add it to the script under the SLACK_WEBHOOK_URL variable.
 
 4. Schedule the script using cron:
    ```bash
