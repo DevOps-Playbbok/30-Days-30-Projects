@@ -5,6 +5,7 @@ The company faced frequent server downtime due to:
 - Lack of real-time monitoring.
 - Manual checks prone to delays and human error.
 - Resource exhaustion (e.g., high CPU usage) leading to application crashes.
+<img width="873" alt="Screenshot 2024-11-22 at 9 58 19 PM" src="https://github.com/user-attachments/assets/4b59a33c-ab9a-46a2-9672-1bbbd72b5d9a">
 
 ## Solution
 We developed an automated server health monitoring system using a shell script to:
