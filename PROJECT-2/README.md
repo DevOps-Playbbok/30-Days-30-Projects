@@ -18,7 +18,12 @@ https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 3. **Connect Terraform with AWS:**
 
 ```bash
+aws configure list
 aws configure
 ```
 
 4. Trigger commission script to provision the cluster
+
+```bash
+./commission.sh
+```
